@@ -1,0 +1,17 @@
+{
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "projectName": {
+      "value": "shikkaku"
+    },
+    "environment": {
+      "value": "dev"
+    },
+    "location": {
+      "value": "canadacentral"
+    },
+    "functionRuntime": {
+      "value": "dotnet-isolated"
+    }
+  }
+}
